@@ -5,7 +5,7 @@
  http://creativecommons.org/licenses/by/3.0/legalcode
 
 ==========================================
-Example Spec - The title of your blueprint
+Protect image repository against uploading files with any types
 ==========================================
 
 Include the URL of your launchpad blueprint:
