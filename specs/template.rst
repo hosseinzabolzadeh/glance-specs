@@ -8,12 +8,12 @@
 Protect image repository against uploading files with any types
 ==========================================
 
-Include the URL of your launchpad blueprint:
+https://blueprints.launchpad.net/glance/+spec/image-type-checking
 
-https://blueprints.launchpad.net/glance/+spec/example
-
-Introduction paragraph -- why are we doing anything? A single paragraph of
-prose that operators can understand.
+Adding any files(e.g. png, mp3, ...) to glance repository is not what the
+project is looking for to address. Protecting the repository against
+uploading any files with any extensions, is what will be explained in
+this blueprint.
 
 Some notes about using this template:
 
